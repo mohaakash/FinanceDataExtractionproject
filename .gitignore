@@ -1,0 +1,11 @@
+# .gitignore
+*.pyc
+__pycache__/
+.env
+*.env
+*.sqlite3
+*.db
+.streamlit/secrets.toml
+.idea/
+.vscode/
+.DS_Store
